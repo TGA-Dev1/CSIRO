@@ -1,0 +1,6 @@
+{
+  "EnableDeveloperExceptions": "True",
+  "ConnectionStrings": {
+    "DBConnection": "Server=csirodb.cdoz8ubooue6.us-east-1.rds.amazonaws.com;Database=ApplicationDB1;Uid=admin;Password=Holmesglen123;Encrypt=False"
+  }
+}
